@@ -656,7 +656,7 @@ span.carousel-control-next-icon {
 .right {
     margin-bottom: -16px;
 }
-@media only screen and (max-width: 576px) and (min-width: 375px){
+@media only screen and (max-width: 576px) and (min-width: 300px){
 	.maindiv {
        text-align: center;
        width: 100%;
